@@ -172,7 +172,7 @@ left:80px;
 }
 
 /*responsiveness*/
-@media(max-width:750px){
+@media(max-width:950px){
 
 ul li {
 	display:inline-block;
